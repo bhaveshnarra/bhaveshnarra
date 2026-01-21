@@ -2,11 +2,9 @@
 
 ### *Senior Software Engineer @ Joveo | Building Conversational AI*
 
-> *"Diligent follower of the 2nd law of thermodynamics, applying a lens of efficiency to design robust, high-performance software."*
-
 
 ### 👨‍💻 About Me
-I am a Senior Software Engineer based in **Hyderabad**, working as the Architecct of Conversational products at Joveo. My background spans distributed systems, data visualization, and full-stack development.
+I am a Senior Software Engineer based in **Hyderabad**, working as the Architect of Conversational products at Joveo. My background spans distributed systems, data visualization, and full-stack development.
 
 *   🔭 **Currently working on:** Next-gen AI features and scalable backend systems at **Joveo**.
 *   💼 **Previous experience:** Software Development Engineer at **Oracle**, **Google Summer of Code (GSoC)** Contributor with NRNB.
