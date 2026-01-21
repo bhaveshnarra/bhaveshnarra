@@ -12,13 +12,6 @@ I am a Senior Software Engineer based in **Hyderabad**, working as the Architect
 *   💬 **Ask me about:** Python, Scala, Java and Rust.
 
 ---
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
 ### 📫 Connect with Me
 
 <p align="left">
